@@ -19,23 +19,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Criando uma avatar
+
+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Criar um avatar com voz feminina jovem em português
+
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+utilizado https://studio.d-id.com/
+
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Foi escolhido o avatar, inserida voz feminina em portugues e gerado o video
+
+
 
 ## 🚀 Resultados
+
 Apresente os resultados do seu projeto
 
+
+
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+Antes de começar o curso não tinha noção alguma sobre IA. O fato de poder lidar com novas tecnologias, ainda que de forma bastante embrionária, foi bastante gratificante.
 ```
 
 ### Exemplos e Insigths
